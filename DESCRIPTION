@@ -1,0 +1,16 @@
+Package: CRcrt
+Title: Explore spillover in cluster randomised trials
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christopher",
+           family = "Jarvis",
+           role = c("aut", "cre"),
+           email = "christopher1.jarvis@gmail.com",
+           comment = c(ORCID = "0000-0002-0812-2446"))
+Description: This packages explores spillover in cluster randomised trials.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  sf (>= 0.8-1)
+RoxygenNote: 7.0.2
